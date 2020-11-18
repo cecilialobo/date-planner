@@ -10,15 +10,15 @@ function App() {
       </header>
       <section>
         <form>
-          <label for="where">Where?</label>
+          <label htmlFor="where">Where?</label>
           <input type="text" id="where" name="where"></input>
-          <label for="budget">Budget</label>
+          <label htmlFor="budget">Budget</label>
           <input type="number" id="budget" name="budget"></input>
-          <label for="date">When?</label>
+          <label htmlFor="date">When?</label>
           <input type="date" id="date" name="date"></input>
           <button>Search</button>
         </form>
-        
+
       </section>
     </div>
   );
