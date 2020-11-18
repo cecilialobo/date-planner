@@ -1,0 +1,10 @@
+html {
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+    background-image: url('assets/baloons.jpg');
+    background-size: cover; 
+  }
+  
+  body {
+    margin: 0;
+  }
